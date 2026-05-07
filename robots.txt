@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://venetianmacao-casino.com/
+Sitemap: https://venetianmacao-casino.com/sitemap.xml

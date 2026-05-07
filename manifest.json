@@ -1,0 +1,19 @@
+{
+  "name": "The Venetian Macao Casino",
+  "short_name": "The Venetian Macao Casino",
+  "theme_color": "",
+  "background_color": "#172251",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1778148176-favicon-92.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
